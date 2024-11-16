@@ -1,2 +1,2 @@
 # poster
-poster pro
+poster pro max
